@@ -19,7 +19,7 @@ A modern and responsive coffee landing page built using HTML, Tailwind CSS, and 
 ## 📸 Preview
 
 ![Coffee Landing Page]
-(./images/coffee-preview.png)
+(https://github.com/aakashtechworks/coffee-landing-page/blob/main/images/coffee-preview.png)
 
 ## 🌐 Live Demo
 
